@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Ali</h1>
+<h1 align="center">Hamza Ali Chaudhry</h1>
 <h3 align="center">Computer Scientist intereseted in Artificial Intelligence</h3>
 
 - 🔭 I’m currently working on **Artificial Intelligence**
