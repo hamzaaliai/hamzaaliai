@@ -1,5 +1,5 @@
 <h1 align="center">Hamza Ali Chaudhry</h1>
-<h3 align="center">Computer Scientist intereseted in Artificial Intelligence</h3>
+<h3 align="center">Data Analytics Professional 👨‍💻 | DataViz Researcher 📊 | BS(AI) 🎓</h3>
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
